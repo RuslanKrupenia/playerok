@@ -7,7 +7,7 @@
                     <img src="https://playerok.com/og_playerok.png" alt="">
                 </div>
                 <ul class="header__menu-list">
-                    <li class="header__menu-item"><a class="header__menu-link" href="#"><img src="@/assets/image/search.svg" alt="">Поиск</a></li>
+                    <li class="header__menu-item header__menu-item-search"><a class="header__menu-link header__menu-link-search " href="#"><img src="@/assets/image/search.svg" alt="">Поиск</a></li>
                     <li class="header__menu-item"><a class="header__menu-link" href="#"><img src="@/assets/image/sell.svg" alt="">Продать</a></li>
                     <li class="header__menu-item"><a class="header__menu-link" href="#"><img src="@/assets/image/chat.svg" alt="">Чаты</a></li>
                     <li class="header__menu-item"><a class="header__menu-link" href="#"><img src="@/assets/image/profile.svg" alt="">Профиль</a></li>
@@ -71,6 +71,145 @@
                                 <div class="header__services-advantages-reviews-subtitle">Только провереные продавцы с отзывами. <br> Покупайте безопасно!</div>
                             </div>
                         </div>
+                        <div class="header__services-apps">
+                            <div class="header__services-apps-games">
+                                <div class="header__services-apps-games-text">
+                                    <div class="header__services-apps-games-title">🎮 Игры</div>
+                                    <a href="#" class="header__services-apps-games-link">332 <span>></span></a>
+                                </div>
+                                <div class="header__services-apps-games-list">
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Brawl Stars</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Roblox</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Pubg Mobile</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Stundof 2</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Clash of Clans</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Mobile Legends</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Tanks Biltz</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Blockman</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Fortnite</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Genshin Inpart</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">CS GO</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Perfect World</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">Free Fire</div>
+                                    </div>
+                                    <div class="header__services-apps-games-item">
+                                        <div class="header__services-apps-games-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-games-item-name">World of Tanks</div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="header__services-apps-applications">
+                                <div class="header__services-apps-applications-text">
+                                    <div class="header__services-apps-applications-text-title">📂 Приложения</div>
+                                    <a href="#" class="header__services-apps-applications-text-link">34 <span>></span></a>
+                                </div>
+                                <div class="header__services-apps-applications-list">
+                                    <div class="header__services-apps-applications-item">
+                                        <div class="header__services-apps-applications-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-applications-item-name">Steam</div>
+                                    </div>
+                                    <div class="header__services-apps-applications-item">
+                                        <div class="header__services-apps-applications-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-applications-item-name">Discord</div>
+                                    </div>
+                                    <div class="header__services-apps-applications-item">
+                                        <div class="header__services-apps-applications-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-applications-item-name">Telegram</div>
+                                    </div>
+                                    <div class="header__services-apps-applications-item">
+                                        <div class="header__services-apps-applications-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-applications-item-name">YouTube</div>
+                                    </div>
+                                    <div class="header__services-apps-applications-item">
+                                        <div class="header__services-apps-applications-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-applications-item-name">TikTok</div>
+                                    </div>
+                                    <div class="header__services-apps-applications-item">
+                                        <div class="header__services-apps-applications-item-img">
+                                            <img src="https://place-hold.it/87x87" alt="">
+                                        </div>
+                                        <div class="header__services-apps-applications-item-name">PlayStation</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -88,36 +227,38 @@
     background: #fff;
     &__content{
         display: flex;
-        width: 1440px;
+        width: 1500px;
     }
     &__menu{
         width: 220px;
         border-right: 2px solid #F2F4F7;
         &-container{
+            height: 100%;
+            width: 100%;
             margin: 0 auto;
+            
         }
         &-logo{
             width: 220px;
             height: 115px;
-            position: -webkit-sticky;
             position: sticky;
             top: 0;
             padding: 0;
             border-right: 2px solid #F2F4F7;
         }
         &-list{
-            position: -webkit-sticky;
             position: sticky;
             top: 115px;
             padding: 0;
-
         }
         &-item{
             width: 220px;
             height: 55px;
             display: flex;
             align-items: center;
-            &:hover{
+            position: -webkit-sticky;
+            position: sticky;
+            &-search{
                 background-color: #F2F4F7;
             }
         }
@@ -125,12 +266,21 @@
             display: flex;
             text-decoration: none;
             width: 100%;
+            height: 100%;
+            align-items: center;
             
+            &-search{
+                color: #1453ff;
+                background-color: #F2F4F7;
+            }
             & img{
                 width: 24px;
                 height: 24px;
                 margin-right: 10px;
                 margin-left: 20px;
+            }
+            &:hover{
+                color: #1453ff;
             }
         }
 
@@ -250,6 +400,7 @@
             display: flex;
             justify-content: space-between;
             text-align: center;
+            margin-bottom: 40px;
             &-entertainment{
                 background-image: url(https://place-hold.it/356x200/bebebe/bebebe);
                 height: 100%;
@@ -327,6 +478,124 @@
                 }
                 &-subtitle{
                     font-size: 16px;
+                }
+            }
+        }
+        &-apps{
+            width: 100%;
+            height: 305px;
+            display: flex;
+            justify-content: space-between;
+            &-games{
+                width: 700px;
+                height: 300px;
+                &-text{
+                    width: 100%;
+                    height: 30px;
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 20px;
+                    align-items: center;
+                }
+                &-title{
+                    font-size: 24px;
+                    font-weight: 800;
+                }
+                &-link{
+                    font-size: 18px;
+                    text-decoration: none;
+                    & span{
+                        margin-left: 5px;
+                        font-size: 18px;
+                        font-weight: 600;
+                    }
+                }
+                &-list{
+                    height: 250px;
+                    width: 700px;
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                }
+                &-item{
+                    width: 87px;
+                    height: 115px;
+                    margin-right: 15px;
+                    white-space: nowrap;
+                    text-align: center;
+                    overflow: hidden;
+                    
+                    &:nth-child(7){
+                        margin-right: 0;
+                    }
+                    &:last-child{
+                        margin-right: 0;
+                    }
+                    &-name{
+                        font-size: 14px;
+                        line-height: 170%;
+                    }
+                    &-img{
+                        & img{
+                            border-radius: 6px;
+                        }
+                    }
+                }
+            }
+            &-applications{
+                width: 375px;
+                height: 305px;
+                &-text{
+                    width: 100%;
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 15px;
+                    align-items: center;
+                    &-title{
+                        font-size: 24px;
+                        font-weight: 800;
+                    }
+                    &-link{
+                        font-size: 18px;
+                        text-decoration: none;
+                        & span{
+                            margin-left: 5px;
+                            font-size: 18px;
+                            font-weight: 600;
+                        }
+                    }
+                }
+                &-list{
+                    height: 250px;
+                    width: 375px;
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    justify-content: space-between;
+                }
+                &-item{
+                    width: 87px;
+                    height: 115px;
+                    margin-right: 15px;
+                    white-space: nowrap;
+                    text-align: center;
+                    overflow: hidden;
+                    
+                    &:nth-child(3){
+                        margin-right: 0;
+                    }
+                    &:last-child{
+                        margin-right: 0;
+                    }
+                    &-name{
+                        font-size: 14px;
+                        line-height: 170%;
+                    }
+                    &-img{
+                        & img{
+                            border-radius: 6px;
+                        }
+                    }
                 }
             }
         }
