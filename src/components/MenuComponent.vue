@@ -651,7 +651,7 @@
                         width: 100%;
                         height: 130px;
                         display: flex;
-                        justify-content: end;
+                        justify-content: flex-end;
                         border-radius: 6px;
                     }
                     &-1{
