@@ -210,6 +210,41 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="header__services-product">
+                            <div class="header__services-product-item">
+                                <div class="header__services-product-item-img-1">
+                                    <div class="header__services-product-item-img-new">Новое</div>
+                                </div>
+                                <div class="header__services-product-item-title">💎Mobile Legends</div>
+                                <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
+                            </div>
+                            <div class="header__services-product-item">
+                                <div class="header__services-product-item-img-2">
+                                    <div class="header__services-product-item-img-new">Новое</div>
+                                </div>
+                                <div class="header__services-product-item-title">🤖Мод Гемы</div>
+                                <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
+                            </div>
+                            <div class="header__services-product-item">
+                                <div class="header__services-product-item-img-3">
+                                <div class="header__services-product-item-img-new">Новое</div>
+                                </div>
+                                <div class="header__services-product-item-title">💎Купить Робуксы</div>
+                                <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
+                            </div>
+                            <div class="header__services-product-item">
+                                <div class="header__services-product-item-img-4">
+                                </div>
+                                <div class="header__services-product-item-title">⭐Наборы Fortnite</div>
+                                <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
+                            </div>
+                            <div class="header__services-product-item">
+                                <div class="header__services-product-item-img-5">
+                                </div>
+                                <div class="header__services-product-item-title">💎Купить GCubes</div>
+                                <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -268,10 +303,10 @@
             width: 100%;
             height: 100%;
             align-items: center;
-            
             &-search{
                 color: #1453ff;
                 background-color: #F2F4F7;
+                align-items: center;
             }
             & img{
                 width: 24px;
@@ -486,6 +521,7 @@
             height: 305px;
             display: flex;
             justify-content: space-between;
+            margin-bottom: 30px;
             &-games{
                 width: 700px;
                 height: 300px;
@@ -596,6 +632,60 @@
                             border-radius: 6px;
                         }
                     }
+                }
+            }
+        }
+        &-product{
+            width: 100%;
+            height: 180px;
+            display: flex;
+            justify-content: space-between;
+            &-item{
+                text-align: start;
+                width: 230px;
+                height: 100%;
+                &-img{
+                    &-1,&-2,&-3,&-4,&-5{
+                        background-position: top center;
+                        background-size: cover;
+                        width: 100%;
+                        height: 130px;
+                        display: flex;
+                        justify-content: end;
+                        border-radius: 6px;
+                    }
+                    &-1{
+                        background-image: url(https://place-hold.it/205x115/f192db/f192db);
+                    }
+                    &-2{
+                        background-image: url(https://place-hold.it/205x115/a0bd2f/a0bd2f);
+                    }
+                    &-3{
+                        background-image: url(https://place-hold.it/205x115/546360/546360);
+                    }
+                    &-4{
+                        background-image: url(https://place-hold.it/205x115/cf95e0/cf95e0);
+                    }
+                    &-5{
+                        background-image: url(https://place-hold.it/205x115/fdcb02/fdcb02);
+                    }
+                    &-new{
+                        background-color: #00C25A;
+                        font-size: 14px;
+                        font-weight: 800;
+                        color: #fff;
+                        border-radius: 6px;
+                        text-align: center;
+                        width: 60px;
+                        height: 24px;
+                        
+                    }
+                    width: 205px;
+                    height: 115px;
+                }
+                &-title{
+                    font-size: 18px;
+                    font-weight: 800;
                 }
             }
         }
