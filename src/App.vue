@@ -1,21 +1,31 @@
 <template>
-<MenuComponent/>
-<FooterComponent/>
+  <div class="app">
+    <MenuComponent/>
+    <ContentComponent/>
+
+  </div>
 </template>
 
 <script>
-import MenuComponent from './components/MenuComponent.vue'
-import FooterComponent from './components/FooterComponent.vue'
+import MenuComponent from './components/MenuComponent.vue';
+import ContentComponent from './components/ContentComponent.vue';
+
 
 export default {
   name: 'App',
   components: {
-    MenuComponent,FooterComponent,
-  }
+    MenuComponent,
+    ContentComponent,
+}
+
 }
 </script>
 
 <style>
+.app{
+  display: flex;
+  flex-direction: row;
+}
 /* Указываем box sizing */
 *,
 *::before,
