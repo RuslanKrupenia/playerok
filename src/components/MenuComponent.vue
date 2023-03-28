@@ -48,7 +48,7 @@
                             </ul>
                         </div>
                         <div class="header__services-advantages">
-                            <div class="header__services-advantages-entertainment">
+                            <div class="header__services-advantages-entertainment" onclick="location.href='#';">
                                 <div class="header__services-advantages-entertainment-img">
                                     <img src="@/assets/image/gamepad.svg" alt="">
                                     <img src="@/assets/image/folder.png" alt="">
@@ -56,14 +56,14 @@
                                 <div class="header__services-advantages-entertainment-title">Игры и приложения</div>
                                 <div class="header__services-advantages-entertainment-subtitle">Все игры и новые приложения! <br> Большой выбор категорий</div>
                             </div>
-                            <div class="header__services-advantages-discount">
+                            <div class="header__services-advantages-discount" onclick="location.href='#';">
                                 <div class="header__services-advantages-discount-img">
                                     <img src="@/assets/image/procent.png" alt="">
                                 </div>
                                 <div class="header__services-advantages-discount-title">По скидке</div>
                                 <div class="header__services-advantages-discount-subtitle">Товары по скидке до -50%. <br> Покупайте выгодно!</div>
                             </div>
-                            <div class="header__services-advantages-reviews">
+                            <div class="header__services-advantages-reviews" onclick="location.href='#';">
                                 <div class="header__services-advantages-reviews-img">
                                 <img src="@/assets/image/star.svg" alt="">
                                 </div>
@@ -78,85 +78,85 @@
                                     <a href="#" class="header__services-apps-games-link">332 <span>></span></a>
                                 </div>
                                 <div class="header__services-apps-games-list">
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Brawl Stars</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Roblox</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Pubg Mobile</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Stundof 2</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Clash of Clans</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Mobile Legends</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Tanks Biltz</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Blockman</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Fortnite</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Genshin Inpart</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">CS GO</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Perfect World</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-games-item-name">Free Fire</div>
                                     </div>
-                                    <div class="header__services-apps-games-item">
+                                    <div  class="header__services-apps-games-item" onclick="location.href='#';" >
                                         <div class="header__services-apps-games-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
@@ -171,37 +171,37 @@
                                     <a href="#" class="header__services-apps-applications-text-link">34 <span>></span></a>
                                 </div>
                                 <div class="header__services-apps-applications-list">
-                                    <div class="header__services-apps-applications-item">
+                                    <div class="header__services-apps-applications-item" onclick="location.href='#';">
                                         <div class="header__services-apps-applications-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-applications-item-name">Steam</div>
                                     </div>
-                                    <div class="header__services-apps-applications-item">
+                                    <div class="header__services-apps-applications-item" onclick="location.href='#';">
                                         <div class="header__services-apps-applications-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-applications-item-name">Discord</div>
                                     </div>
-                                    <div class="header__services-apps-applications-item">
+                                    <div class="header__services-apps-applications-item" onclick="location.href='#';">
                                         <div class="header__services-apps-applications-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-applications-item-name">Telegram</div>
                                     </div>
-                                    <div class="header__services-apps-applications-item">
+                                    <div class="header__services-apps-applications-item" onclick="location.href='#';">
                                         <div class="header__services-apps-applications-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-applications-item-name">YouTube</div>
                                     </div>
-                                    <div class="header__services-apps-applications-item">
+                                    <div class="header__services-apps-applications-item" onclick="location.href='#';">
                                         <div class="header__services-apps-applications-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
                                         <div class="header__services-apps-applications-item-name">TikTok</div>
                                     </div>
-                                    <div class="header__services-apps-applications-item">
+                                    <div class="header__services-apps-applications-item" onclick="location.href='#';">
                                         <div class="header__services-apps-applications-item-img">
                                             <img src="https://place-hold.it/87x87" alt="">
                                         </div>
@@ -211,43 +211,256 @@
                             </div>
                         </div>
                         <div class="header__services-product">
-                            <div class="header__services-product-item">
+                            <div class="header__services-product-item" onclick="location.href='#';">
                                 <div class="header__services-product-item-img-1">
                                     <div class="header__services-product-item-img-new">Новое</div>
                                 </div>
                                 <div class="header__services-product-item-title">💎Mobile Legends</div>
                                 <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
                             </div>
-                            <div class="header__services-product-item">
+                            <div class="header__services-product-item" onclick="location.href='#';">
                                 <div class="header__services-product-item-img-2">
                                     <div class="header__services-product-item-img-new">Новое</div>
                                 </div>
                                 <div class="header__services-product-item-title">🤖Мод Гемы</div>
                                 <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
                             </div>
-                            <div class="header__services-product-item">
+                            <div class="header__services-product-item" onclick="location.href='#';">
                                 <div class="header__services-product-item-img-3">
                                 <div class="header__services-product-item-img-new">Новое</div>
                                 </div>
                                 <div class="header__services-product-item-title">💎Купить Робуксы</div>
                                 <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
                             </div>
-                            <div class="header__services-product-item">
+                            <div class="header__services-product-item" onclick="location.href='#';">
                                 <div class="header__services-product-item-img-4">
                                 </div>
                                 <div class="header__services-product-item-title">⭐Наборы Fortnite</div>
                                 <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
                             </div>
-                            <div class="header__services-product-item">
+                            <div class="header__services-product-item" onclick="location.href='#';">
                                 <div class="header__services-product-item-img-5">
                                 </div>
                                 <div class="header__services-product-item-title">💎Купить GCubes</div>
                                 <div class="header__services-product-item-subtitle">Начало 28 сезона</div>
                             </div>
                         </div>
+                        <div class="header__services-premium">
+                            <div class="header__services-premium-title">🚀 Премиум товары</div>
+                            <div class="header__services-premium-list">
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-undiscounted">129грн</div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-undiscounted">129грн</div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-cost">129грн</div>
+                                            <div class="header__services-premium-item-bottom-discount">-19%</div>
+                                            <div class="header__services-premium-item-bottom-old-cost"> <p>150</p> </div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-cost">129грн</div>
+                                            <div class="header__services-premium-item-bottom-discount">-19%</div>
+                                            <div class="header__services-premium-item-bottom-old-cost"><p>150</p></div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-cost">129грн</div>
+                                            <div class="header__services-premium-item-bottom-discount">-19%</div>
+                                            <div class="header__services-premium-item-bottom-old-cost"><p>150</p></div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-cost">129грн</div>
+                                            <div class="header__services-premium-item-bottom-discount">-19%</div>
+                                            <div class="header__services-premium-item-bottom-old-cost"><p>150</p></div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-cost">129грн</div>
+                                            <div class="header__services-premium-item-bottom-discount">-19%</div>
+                                            <div class="header__services-premium-item-bottom-old-cost"><p>150</p></div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                                <div class="header__services-premium-item">
+                                    <div class="header__services-premium-item-top">
+                                    <div class="header__services-premium-item-top-logo">
+                                        <img src="https://place-hold.it/40x40/bcbfbc/bcbfbc" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-top-text">
+                                        <div class="header__services-premium-item-top-name">Мир Танков</div>
+                                        <div class="header__services-premium-item-top-subname">Аккаунты</div>
+                                    </div>
+                                    </div>
+                                    <div class="header__services-premium-item-center">
+                                    <img src="https://place-hold.it/260x150/333839/333839" alt="">
+                                    </div>
+                                    <div class="header__services-premium-item-bottom">
+                                        <div class="header__services-premium-item-bottom-price">
+                                            <div class="header__services-premium-item-bottom-cost">129грн</div>
+                                            <div class="header__services-premium-item-bottom-discount">-19%</div>
+                                            <div class="header__services-premium-item-bottom-old-cost"><p>150</p></div>
+                                        </div>
+                                    <div class="header__services-premium-item-bottom-description">Прокачка то что надо для старта</div>
+                                    </div>
+                                    <div class="header__services-premium-item-reviews">
+                                        <img src="@/assets/image/5_stars.jpg" alt="">
+                                        <div class="header__services-premium-item-reviews-quantity">3</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="header__services-premium-more-button-link"  href="#"><div class="header__services-premium-more-button">
+                                <p>Показать ещё</p>
+                            </div></a>
+                        </div>
                     </div>
                 </div>
             </div>
+            
         </div>
 </section>
 </template>
@@ -335,7 +548,7 @@
 
 
     &__services{
-        min-height: 1000vh;
+        min-height: 200vh;
         width: 100%;
         &-container{
             max-width: 1200px;
@@ -437,6 +650,7 @@
             text-align: center;
             margin-bottom: 40px;
             &-entertainment{
+                cursor: pointer;
                 background-image: url(https://place-hold.it/356x200/bebebe/bebebe);
                 height: 100%;
                 width: 385px;
@@ -463,6 +677,7 @@
                 }
             }
             &-discount{
+                cursor: pointer;
                 background-image: url(https://place-hold.it/356x200/fb326/fb326);
                 height: 100%;
                 width: 385px;
@@ -490,6 +705,7 @@
                 }
             }
             &-reviews{
+                cursor: pointer;
                 background-image: url(https://place-hold.it/356x200/2861ff/2861ff);
                 height: 100%;
                 width: 385px;
@@ -560,6 +776,7 @@
                     white-space: nowrap;
                     text-align: center;
                     overflow: hidden;
+                    cursor: pointer;
                     
                     &:nth-child(7){
                         margin-right: 0;
@@ -616,7 +833,7 @@
                     white-space: nowrap;
                     text-align: center;
                     overflow: hidden;
-                    
+                    cursor: pointer;
                     &:nth-child(3){
                         margin-right: 0;
                     }
@@ -640,10 +857,12 @@
             height: 180px;
             display: flex;
             justify-content: space-between;
+            margin-bottom: 40px;
             &-item{
                 text-align: start;
                 width: 230px;
                 height: 100%;
+                cursor: pointer;
                 &-img{
                     &-1,&-2,&-3,&-4,&-5{
                         background-position: top center;
@@ -653,6 +872,7 @@
                         display: flex;
                         justify-content: flex-end;
                         border-radius: 6px;
+                        margin-bottom: 10px;
                     }
                     &-1{
                         background-image: url(https://place-hold.it/205x115/f192db/f192db);
@@ -686,6 +906,141 @@
                 &-title{
                     font-size: 18px;
                     font-weight: 800;
+                    width: 100%;
+                }
+                &-subtitle{
+                    font-size: 17px;
+                    line-height: 160%;
+                    width: 100%;
+                }
+            }
+        }
+        &-premium{
+            width: 100%;
+            height: 100%;
+            &-title{
+                font-size: 24px;
+                font-weight: 800;
+                margin-bottom: 30px;
+            }
+            &-list{
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: space-between;
+            }
+            &-item{
+                width: 262px;
+                height: 305px;
+                margin-bottom: 20px;
+                &-top{
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 7px;
+                    &-logo{
+                        width: 40px;
+                        height: 40px;
+                        margin-right: 10px;
+                        & img{
+                            border-radius: 6px;
+                        }
+                    }
+                    &-text{
+                        width: 100%;
+                    }
+                    &-name{
+                        font-size: 16px;
+                        line-height: 125%;
+                        font-weight: 800;
+                    }
+                    &-subname{
+                        font-size: 14px;
+                    }
+                }
+                &-center{
+                    width: 100%;
+                    height: 150px;
+                    margin-bottom: 10px;
+                    img {
+                        width: 260px;
+                        height: 150px;
+                    }
+                }
+                &-bottom{
+                    width: 100%;
+                    height: 55px;
+                    &-price{
+                        display: flex;
+                        align-items: center;
+                    }
+                    &-undiscounted{
+                        color: #000;
+                        font-size: 18px;
+                        font-weight: 800;
+                    }
+                    &-cost{
+                        color: #FF1A4F;
+                        font-size: 18px;
+                        font-weight: 800;
+                        margin-right: 10px;
+                    }
+                    &-discount{
+                        width: 45px;
+                        height: 25px;
+                        font-size: 14px;
+                        text-align: center;
+                        font-weight: 800;
+                        background-color: #FF1A4F;
+                        color: #fff;
+                        margin-right: 10px;
+                        padding: 2px;
+                        border-radius: 16px;
+                    }
+                    &-old-cost{
+                        text-align: center; font-size: 14px; line-height: 1;
+                        color: #ff2c0a; text-decoration: line-through;
+                        & p{
+                            color: #333333;
+                            font-weight: 600;
+                        }
+                        
+                    }
+                    &-description{
+                        
+                        width: 100%;
+                        font-size: 16px;
+                    }
+                }
+                &-reviews{
+                    width: 100%;
+                    height: 25px;
+                    display: flex;
+                    align-items: center;
+                    line-height: 170%;
+                    color: #828794;
+                    & img {
+                        width: 70px;
+                        height: 25px;
+                        margin-right: 5px;
+                    }
+                }
+            }
+            &-more-button{
+                width: 100%;
+                height: 52px;
+                background-color: #F2F4F7;
+                display: flex;
+                align-items: center;
+                &-link{
+                    text-decoration: none;
+                }
+                & p{
+                    margin: 0 auto;
+                    color: #000;
+                    line-height: 155%;
+                    font-size: 18px;
                 }
             }
         }
