@@ -7,9 +7,9 @@
                     <img src="https://playerok.com/og_playerok.png" alt="">
                     <ul class="header__menu-list">
                       <li class="header__menu-item header__menu-item-search"><a class="header__menu-link header__menu-link-search " href="#"><img src="@/assets/image/search.svg" alt="">Поиск</a></li>
-                      <li class="header__menu-item"><a class="header__menu-link" href="#"><img src="@/assets/image/sell.svg" alt="">Продать</a></li>
-                      <li class="header__menu-item"><a class="header__menu-link" href="#"><img src="@/assets/image/chat.svg" alt="">Чаты</a></li>
-                      <li class="header__menu-item"><a class="header__menu-link" href="#"><img src="@/assets/image/profile.svg" alt="">Профиль</a></li>
+                      <li class="header__menu-item header__menu-item-sell"><a class="header__menu-link header__menu-link-sell" href="#"><img src="@/assets/image/sell.svg" alt="">Продать</a></li>
+                      <li class="header__menu-item header__menu-item-chats"><a class="header__menu-link header__menu-link-chats" href="#"><img src="@/assets/image/chat.svg" alt="">Чаты</a></li>
+                      <li class="header__menu-item header__menu-profile"><a class="header__menu-link header__menu-link-profile" href="#"><img src="@/assets/image/profile.svg" alt="">Профиль</a></li>
                     </ul>
                 </div>
 

@@ -1,27 +1,32 @@
 <template>
   <div class="app">
     <MenuComponent/>
-    <ContentComponent/>
-
+    <!-- <ContentComponent/> -->
+    <!-- <SellComponent/> -->
+    <ProfileComponent/>
   </div>
 </template>
 
 <script>
 import MenuComponent from './components/MenuComponent.vue';
-import ContentComponent from './components/ContentComponent.vue';
-
+// import ContentComponent from './components/ContentComponent.vue';
+// import SellComponent from './components/SellComponent.vue';
+import ProfileComponent from './components/ProfileComponent.vue'
 
 export default {
   name: 'App',
   components: {
     MenuComponent,
-    ContentComponent,
+    // ContentComponent,
+    // SellComponent,
+    ProfileComponent
 }
 
 }
 </script>
 
 <style>
+@import '@/assets/fonts/fonts.scss';
 .app{
   display: flex;
   flex-direction: row;
@@ -59,6 +64,7 @@ dd {
 
 /* Выставляем основные настройки по-умолчанию для body */
 body {
+  font-family: 'Inter';
   min-height: 100vh;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
