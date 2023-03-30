@@ -1,35 +1,57 @@
 <template>
   <div class="app">
-    <MenuComponent/>
-    <!-- <ContentComponent/> -->
-    <!-- <SellComponent/> -->
-    <ProfileComponent/>
+    <section class="slidebar__left">
+      <div class="slidebar__container">
+          <MenuComponent/>
+      </div>
+    </section>
+    <section class="content">
+      <div class="container">
+        <!-- <ContentComponent/> -->
+        <!-- <ProfileComponent/> -->
+        <SellComponent/>
+        
+      </div>
+    </section>
   </div>
 </template>
 
 <script>
 import MenuComponent from './components/MenuComponent.vue';
 // import ContentComponent from './components/ContentComponent.vue';
-// import SellComponent from './components/SellComponent.vue';
-import ProfileComponent from './components/ProfileComponent.vue'
+import SellComponent from './components/SellComponent.vue';
+// import ProfileComponent from './components/ProfileComponent.vue'
 
 export default {
   name: 'App',
   components: {
     MenuComponent,
     // ContentComponent,
-    // SellComponent,
-    ProfileComponent
+    SellComponent,
+    // ProfileComponent,
 }
 
 }
 </script>
 
-<style>
-@import '@/assets/fonts/fonts.scss';
+<style lang="scss">
 .app{
   display: flex;
-  flex-direction: row;
+}
+.slidebar{
+  &__left{
+    min-width: 220px;
+    min-height: 100%;
+  }
+}
+.content{
+  max-width: 1700px;
+  display: flex;
+  margin: 20px ;
+  justify-content: start;
+}
+.container{
+  max-width: 1800px;
 }
 /* Указываем box sizing */
 *,

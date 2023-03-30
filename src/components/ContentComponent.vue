@@ -608,10 +608,7 @@ export default {
 &__services{
    min-height: 1000vh;
    width: 100%;
-&-container{
-   max-width: 1800px;
-   margin: 20px auto ;
- }
+
 &-content{
    width: 100%;
    height: 100%;
