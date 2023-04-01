@@ -54,16 +54,17 @@
 <style lang="scss">
 .sell{
     background-color: #fff;
-    min-height: 100vh;
+    height: 700px;
     width: 100%;
+
     &__container{
         max-width: 1700px;
-        margin: 20px auto ; 
+        display: flex;
+        justify-content: start;
     }
     &__content{
-        margin-left: 40px;
-        max-width: 1052px;
         height: 620px;
+        margin-left: 40px;
         &-title{
             width: 100%;
             height: 90px;

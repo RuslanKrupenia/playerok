@@ -22,6 +22,7 @@
 <style lang="scss">
 .header{
     background: #fff;
+    height: 100%;
     &__content{
         display: flex;
         width: 220px;

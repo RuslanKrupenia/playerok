@@ -1,16 +1,20 @@
 <template>
   <div class="app">
     <section class="slidebar__left">
-      <div class="slidebar__container">
+      <div class="slidebar__list">
+        <div class="slidebar__container">
           <MenuComponent/>
+        </div>
+        <div class="chats__container">  
+          <ChatsComponent/>
+        </div>
       </div>
     </section>
     <section class="content">
       <div class="container">
         <!-- <ContentComponent/> -->
         <!-- <ProfileComponent/> -->
-        <SellComponent/>
-        
+        <!-- <SellComponent/> -->
       </div>
     </section>
   </div>
@@ -19,16 +23,18 @@
 <script>
 import MenuComponent from './components/MenuComponent.vue';
 // import ContentComponent from './components/ContentComponent.vue';
-import SellComponent from './components/SellComponent.vue';
+// import SellComponent from './components/SellComponent.vue';
 // import ProfileComponent from './components/ProfileComponent.vue'
+import ChatsComponent from './components/ChatsComponent.vue'
 
 export default {
   name: 'App',
   components: {
     MenuComponent,
     // ContentComponent,
-    SellComponent,
+    // SellComponent,
     // ProfileComponent,
+    ChatsComponent,
 }
 
 }
@@ -40,18 +46,30 @@ export default {
 }
 .slidebar{
   &__left{
+    min-height: 100vh;
+  }
+  &__container{
     min-width: 220px;
-    min-height: 100%;
+    height: 100%;
+  }
+  &__list{
+    display: flex;
   }
 }
+.chats__container{
+  width: 100%;
+  height: 100vh;
+}
 .content{
-  max-width: 1700px;
-  display: flex;
-  margin: 20px ;
-  justify-content: start;
+  width: 100%;
+  height: 100%;
 }
 .container{
-  max-width: 1800px;
+  margin: 20px auto;
+  max-width: 1700px;
+  display: flex;
+
+
 }
 /* Указываем box sizing */
 *,
