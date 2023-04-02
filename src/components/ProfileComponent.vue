@@ -16,10 +16,10 @@
                         <p>Войти через Google</p>
                     </div>
                 </a>
-                <div class="profile__acces-input-item">
-                    <p>Адрес електронной почты</p>
+                <label class="profile__acces-input-item">
                     <input class="profile__acces-input" type="mail">
-                </div>
+                    <span>Адрес електронной почты</span>
+                </label>>
                 <a class="profile__acces-button-link" href="#"><div class="profile__acces-button">
                     <div class="profile__acces-button-text">Начать продажу</div>
                  </div> </a>
@@ -85,6 +85,30 @@
             & p{
                 font-size: 18px;
                 color: #1453ff;
+            }
+        }
+        &-input{
+            border: none;
+            -webkit-appearance: none;
+            appearance:none;
+            background: #f2f2f2;
+            padding: 12px;
+            border-radius: 5px;
+            width: 100%;
+            outline: none;
+            &::placeholder{
+                position: absolute;
+                left: 12px;
+                top: calc(50% + 10px);
+                transform: translateY(-50%);
+                color: #aaa;
+            }
+            &-item{
+                position: relative;
+                font-size: 14px;
+                padding-top: 20px;
+                margin-bottom: 5px;
+                
             }
         }
         &-button{

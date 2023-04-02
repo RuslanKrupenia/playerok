@@ -6,14 +6,14 @@
           <MenuComponent/>
         </div>
         <div class="chats__container">  
-          <ChatsComponent/>
+          <!-- <ChatsComponent/> -->
         </div>
       </div>
     </section>
     <section class="content">
       <div class="container">
         <!-- <ContentComponent/> -->
-        <!-- <ProfileComponent/> -->
+        <ProfileComponent/>
         <!-- <SellComponent/> -->
       </div>
     </section>
@@ -24,8 +24,8 @@
 import MenuComponent from './components/MenuComponent.vue';
 // import ContentComponent from './components/ContentComponent.vue';
 // import SellComponent from './components/SellComponent.vue';
-// import ProfileComponent from './components/ProfileComponent.vue'
-import ChatsComponent from './components/ChatsComponent.vue'
+import ProfileComponent from './components/ProfileComponent.vue'
+// import ChatsComponent from './components/ChatsComponent.vue'
 
 export default {
   name: 'App',
@@ -33,8 +33,8 @@ export default {
     MenuComponent,
     // ContentComponent,
     // SellComponent,
-    // ProfileComponent,
-    ChatsComponent,
+    ProfileComponent,
+    // ChatsComponent,
 }
 
 }

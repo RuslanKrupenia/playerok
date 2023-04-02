@@ -80,7 +80,9 @@
                         <div class="communication__inner-name-down">Работаем 24/7</div>
                 </div>
             </div>
-
+            <div class="communication__list-massages">
+                <div class="communication__list-massages-when">Сегодня</div>
+            </div>
         </div>
         <div class="communication__massage">
             <input class="communication__massage-input" type="text">
@@ -241,6 +243,11 @@
                 line-height: 170%;
             }
         }
+    }
+    &__list-massages{
+        width: 100%;
+        min-height: 70vh;
+        margin-bottom: 20px;
     }
     &__massage{
         height: 52px;
